@@ -10,10 +10,10 @@ The material in this repository accompanies the paper and extends the brief case
 
 ## Contents
 - 'case-study/': detailed description of the case study.
-- 'assets/': screenshots/supporting figures from the MTV dashboard and Prompts and LLM responses used in the case study workflow.
+- 'assets/': screenshots from the MTV dashboard used in the case study workflow.
 
 ## Scope
-This case study is presented as a demonstration of using a multi-agent, LLM-based anomaly investigation workflow with a time-series visualization and analysis tool. It includes dashboard views, prompts, and outputs related to the MTV-based multi-agent workflow with MLLMs.
+This case study is presented as a demonstration of using a multi-agent, LLM-based anomaly investigation workflow with a time-series visualization and analysis tool. It includes dashboard views, and outputs related to the MTV-based multi-agent workflow with MLLMs.
 
 # Reference
 [1] D. Liu, S. Alnegheimish, A. Zytek, and K. Veeramachaneni, “Mtv: Visual analytics
