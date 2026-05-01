@@ -1,4 +1,4 @@
-**Paper:** *Evaluation of Large Language Models-based Anomaly Detection for Time-Series in Autonomous Cyber-Physical Systems*
+**Paper:** *Evaluation of Large Language Models-based Anomaly Detection for Time-Series in Autonomous Cyber-Physical Systems* - (Initial manuscript submitted)
 **Conference:** IEEE ETFA 2026
 
 # LLM-based Multi-Agent Case Study using MTV
