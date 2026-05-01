@@ -1,7 +1,7 @@
 **Paper:** *Evaluation of Large Language Models-based Anomaly Detection for Time-Series in Autonomous Cyber-Physical Systems* - (Initial manuscript submitted)
 **Conference:** IEEE ETFA 2026
 
-# LLM-based Multi-Agent Case Study using MTV
+# Case Study: LLM-based multi-agent worfkflow concept for TSAD analysis using MTV
 
 This repository contains materials for the case study mentioned in the corresponding paper that could not be included or discussed in detail in the main manuscript due to space limitations. 
 
