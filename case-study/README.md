@@ -1,4 +1,4 @@
-# MTV-based Case Study
+# Case Study: LLM-based multi-agent TSAD analysis using MTV
 
 The file describes the use of the Multivariate Time Series Visualization (MTV) tool for CPS-based anomaly detection in a limited context. MTV is a visual analytics system designed to support a human-AI workflow for detecting, investigating, and annotating anomalies in the time-series dataset through coordinated views, event-centric annotation, and collaborative judgment [1]. 
 
