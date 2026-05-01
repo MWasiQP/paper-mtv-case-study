@@ -78,12 +78,12 @@ The expert, by reviewing the historical segment, which also includes a similar s
 
 Additionally, the expert instead identified a more subtle deviation within the 660-780 index region as a noise anomaly, which might not be visually salient in the initial full-window view but became apparent in combination with the zoomed plots and historical knowledge. The idea that zoomed plots might have helped the MLLM to correctly identify and localize the fault in this case study is reflected by a recent study on TSAD using vision-language models (VLMs), which observed that compressed plots can cause VLMs to miss fine-grained anomalies, whereas a shorter window supports more precise localization [4]. 
 
-![MTV Detector Prediction](../assets/MTV_Expert_Response_2.png) 
+![MTV Expert Prediction 1](../assets/Expert_Response_2.png) 
 
 *Figure 5(a) – Expert annotation.*
 
 
-![MTV Detector Prediction](../assets/MTV_Expert_Response_3.png) 
+![MTV Expert Prediction 2](../assets/MTV_Expert_Response_3.png) 
 
 *Figure 5(b) – Expert further prediction visualization and annotation.*
 
